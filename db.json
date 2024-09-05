@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "title": "Avengers",
+      "language": "English",
+      "year": "2012",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "id": 1
+    },
+    {
+      "title": "Vaazha",
+      "language": "Malayalam",
+      "year": "2024",
+      "imageUrl": "https://images.filmibeat.com/img/popcorn/movie_posters/vaazha-biopicofabillionboys-20240621130106-23007.jpg",
+      "id": 2
+    },
+    {
+      "title": "Coco",
+      "language": "English",
+      "year": "2017",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+      "id": 3
+    },
+    {
+      "title": "Black Panther",
+      "language": "English",
+      "year": "2018",
+      "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810",
+      "id": 4
+    }
+  ]
+}
